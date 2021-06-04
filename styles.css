@@ -1,0 +1,26 @@
+.body{
+ background-color: #F9F2FE;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+ text-align: center;
+ margin-top: 20vh;
+ font-size: 3rem;
+}
+h2{
+ text-align: center;
+ font-size: 5rem;
+}
+.btn-all{
+ text-align: center;
+ margin-top: -2rem ;
+ 
+}
+.btn{
+ margin:0 .1rem 0 0.1rem;
+ height: 2rem;
+ background-color: transparent;
+ border: 2px solid black;
+ border-radius: 10px;
+ font-size: 1.2rem;
+}
